@@ -1,0 +1,57 @@
+Step 1:
+
+1. Player Movement: Implement rolling movement (left/right) and jumping.
+
+2. Obstacle Mechanics: Obstacles will destroy the player on collision.
+
+3. Level Design: Create platforms and interactive terrain.
+
+4. Physics Integration: Add realistic gravity and collision responses.
+
+5. Camera Follow System: Ensure the camera follows the player smoothly.
+
+6. Checkpoints & Respawn: Implement respawn points for when the player dies.
+
+7. UI Elements: Add a main menu, pause screen, and level completion screen.
+
+8. Sound Effects & Music: Add jumping sounds, obstacle collision sounds, and background music.
+
+9. Game Progression: Multiple levels with increasing difficulty.
+
+10. Animations & Visual Effects: Add simple animations and particle effects for movement and destruction.
+
+Step 2:
+
+For this checkpoint, we have implemented the following 4 features:
+
+1. Player Movement: The player can move left/right and jump using keyboard inputs.
+
+2. Obstacle Mechanics: The player gets destroyed upon colliding with an obstacle.
+
+3. Physics Integration: The player is affected by gravity and follows a natural jumping arc.
+
+4. Scene & Character Setup: We created the main game scene and placed the player and obstacles.
+
+Step 3: 
+
+Below is our plan for the next 5 weeks:
+
+Week 1
+
+Improve movement controls and add a camera follow system.
+
+Week 2
+
+Implement checkpoints, respawn mechanics, and game UI.
+
+Week 3
+
+Add level design, including platforms, slopes, and moving objects.
+
+Week 4
+
+Implement sound effects, music, and visual effects (particles/animations).
+
+Week 5
+
+Final testing, debugging, and polishing. Submit the project.
