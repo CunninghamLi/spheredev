@@ -50,7 +50,7 @@ Add level design, including platforms, slopes, and moving objects.
 
 Week 4
 
-Implement sound effects, music, and visual effects (particles/animations).
+Implement visual effects (particles/animations).
 
 Week 5
 
