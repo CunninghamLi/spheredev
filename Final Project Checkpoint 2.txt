@@ -14,7 +14,7 @@ Step 1:
 
 7. UI Elements: Add a main menu, pause screen, and level completion screen.
 
-8. Sound Effects & Music: Add jumping sounds, obstacle collision sounds, and background music.
+8. Implementing unique movement mechanics: Make the movement unique by adding unique effects.
 
 9. Game Progression: Multiple levels with increasing difficulty.
 
