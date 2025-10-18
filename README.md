@@ -1,6 +1,6 @@
 # Sphere Dev (Unity Game)
 
-A small 3D game inspired by *Red Ball*, where the player controls a rolling sphere and avoids obstacles to reach the finish line.
+A small 2D game inspired by *Red Ball*, where the player controls a rolling sphere and avoids obstacles to reach the finish line.
 
 ---
 
